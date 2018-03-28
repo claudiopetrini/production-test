@@ -6,5 +6,5 @@ module.exports = function (cb) {
   *    hello: 'world'
   *  });
   */
-  return cb(null, 'Hello world 2!');
+  return cb(null, 'Hello world 3!');
 };
