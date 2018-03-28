@@ -6,5 +6,5 @@ module.exports = function (cb) {
   *    hello: 'world'
   *  });
   */
-  return cb(null, 'Hello world 4!');
+  return cb(null, {status : 'Hello world 4!'});
 };
